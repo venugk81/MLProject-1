@@ -1,0 +1,89 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="appnope" />
+          <option value="asttokens" />
+          <option value="beautifulsoup4" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="comm" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="debugpy" />
+          <option value="executing" />
+          <option value="fastapi" />
+          <option value="fonttools" />
+          <option value="h11" />
+          <option value="html5lib" />
+          <option value="httpcore" />
+          <option value="httpcore2" />
+          <option value="httpx" />
+          <option value="httpx2" />
+          <option value="idna" />
+          <option value="ipykernel" />
+          <option value="ipython" />
+          <option value="ipython_pygments_lexers" />
+          <option value="jedi" />
+          <option value="jiter" />
+          <option value="jupyter_client" />
+          <option value="jupyter_core" />
+          <option value="kiwisolver" />
+          <option value="lxml" />
+          <option value="matplotlib" />
+          <option value="matplotlib-inline" />
+          <option value="nest-asyncio2" />
+          <option value="numpy" />
+          <option value="ollama" />
+          <option value="openai" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="parso" />
+          <option value="pexpect" />
+          <option value="pillow" />
+          <option value="platformdirs" />
+          <option value="prompt_toolkit" />
+          <option value="psutil" />
+          <option value="ptyprocess" />
+          <option value="pure_eval" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="Pygments" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="pyzmq" />
+          <option value="requests" />
+          <option value="scipy" />
+          <option value="seaborn" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="soupsieve" />
+          <option value="stack-data" />
+          <option value="starlette" />
+          <option value="tornado" />
+          <option value="traitlets" />
+          <option value="truststore" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="wcwidth" />
+          <option value="webencodings" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="UnsatisfiedRequirementInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>

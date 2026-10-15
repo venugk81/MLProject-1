@@ -1,0 +1,12 @@
+
+matplotlib==3.11.2
+matplotlib-inline==0.2.2
+numpy
+pandas==3.0.6
+python-dotenv
+requests==2.34.2
+scikit-learn==1.9.1
+scipy==1.18.1
+seaborn==0.13.2
+urllib3==2.8.0
+
