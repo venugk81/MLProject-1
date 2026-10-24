@@ -10,3 +10,9 @@ scipy==1.18.1
 seaborn==0.13.2
 urllib3==2.8.0
 
+
+nbformat
+nbconvert
+nbconvert
+nbconvert
+pdfkit
